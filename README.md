@@ -9,9 +9,13 @@ Currently, there is nothing to install as the decision tree is still being hashe
 • Peter Mao - [MrAntonym](https://github.com/MrAntonym)
 
 # License
-This project 
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
+
+# Acknowledgements
+• 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI3Mjg2OSwtMTkxMjMwOTQzOF19
+eyJoaXN0b3J5IjpbLTEyNTUwMDQzODAsLTE5MTIzMDk0MzhdfQ
+==
 -->
