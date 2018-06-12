@@ -2,6 +2,7 @@
 The English text version of the decision tree for the bot.
 
 # Reused Constants
+Below are constants which are used throughout the document and their values
 >x = 1/36
 
 # Start of the game
@@ -18,7 +19,7 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MjIzMzQ5LC0xNTQzNjkyNjEzLDE1Mz
-M4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxNDgyNDQ1
-NjcsLTEzNzMyMjkzMzVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjcxODkwMywtMTU0MzY5MjYxMywxNT
+MzODYwNTAxLC0xOTk0NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0
+NTY3LC0xMzczMjI5MzM1XX0=
 -->
