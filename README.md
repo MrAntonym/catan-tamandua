@@ -9,13 +9,12 @@ Currently, there is nothing to install as the decision tree is still being hashe
 • Peter Mao - [MrAntonym](https://github.com/MrAntonym)
 
 # License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/MrAntonym/catan-tamandua/blob/master/LICENSE) file for details.
 
 # Acknowledgements
 • README template from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1MzcwMjgsLTE5MTIzMDk0MzhdfQ
-==
+eyJoaXN0b3J5IjpbNDYyMzcwODkwLC0xOTEyMzA5NDM4XX0=
 -->
