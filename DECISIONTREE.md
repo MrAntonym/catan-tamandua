@@ -7,8 +7,16 @@ The following are constants which are used throughout the document and their val
 
 The following is some math and probabilities that are assumed to be known offhand:
 >Probability of two dice rolling a:
->2 ⟹1/36
->3 ⟹ 2
+>2 ⟹ 1/36 = x
+>3 ⟹ 2/36 = 2x
+>4 ⟹ 3/36 = 3x
+>5 ⟹ 4/36 = 4x
+>6 ⟹ 5/36 = 5x
+>7 ⟹ 6/36 = 6x
+>8 ⟹ 5/36 = 5x
+>9 ⟹ 4/36 = 4x
+>10 ⟹ 3/36 = 3x
+>11 ⟹ 
 
 # Start of the game
 If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -25,7 +33,7 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTYwMTczMywtOTk2MzA0MTY5LC0xNT
+eyJoaXN0b3J5IjpbLTczMzIwMjQ4MCwtOTk2MzA0MTY5LC0xNT
 QzNjkyNjEzLDE1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5
 OTYzNiwxNDgyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
 -->
