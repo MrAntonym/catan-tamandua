@@ -6,7 +6,7 @@ The following are constants which are used throughout the document and their val
 >x = 1/36
 
 The following is some math and probabilities that are assumed to be known offhand:
->Probability of two dice rolling a:
+>Probability of two dice rolling:
 >2 ⟹ 1/36 = x
 >3 ⟹ 2/36 = 2x
 >4 ⟹ 3/36 = 3x
@@ -16,7 +16,8 @@ The following is some math and probabilities that are assumed to be known offhan
 >8 ⟹ 5/36 = 5x
 >9 ⟹ 4/36 = 4x
 >10 ⟹ 3/36 = 3x
->11 ⟹ 
+>11 ⟹ 2/36 = 2x
+>12 ⟹ 1/36 = x
 
 # Start of the game
 If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -24,7 +25,7 @@ If the bot is the picking settlement placement last then go to [Double settlemen
 # First settlement
 For each available vertex (those not too close to other settlements), add the probability of each of the hexes' numbers being rolled.
 > Example 1
-> 
+> x + 4x + 5x = 10x
 ![Forest](https://drive.google.com/uc?id=1CpnCd98VNFQSrKjeulwiR4AymNAAqxdr)
 
 # Double settlement
@@ -33,7 +34,7 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzIwMjQ4MCwtOTk2MzA0MTY5LC0xNT
-QzNjkyNjEzLDE1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5
-OTYzNiwxNDgyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
+eyJoaXN0b3J5IjpbNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1ND
+M2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5
+NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
 -->
