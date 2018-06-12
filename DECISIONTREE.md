@@ -7,7 +7,7 @@ If the bot is the picking settlement placement last then go to [Double settlemen
 # First settlement
 For each available vertex (those not too close to other settlements), add the probability of each of the hexes' numbers being rolled.
 > Example
-> ![enter image description here](https://drive.google.com/open?id=1CpnCd98VNFQSrKjeulwiR4AymNAAqxdr)
+> ![Forest](https://drive.google.com/open?id=1CpnCd98VNFQSrKjeulwiR4AymNAAqxdr)
 
 # Double settlement
 
@@ -15,6 +15,6 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MDM4MjI1LDExOTM3OTk2MzYsMTQ4Mj
-Q0NTY3LC0xMzczMjI5MzM1XX0=
+eyJoaXN0b3J5IjpbLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxND
+gyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
 -->
