@@ -23,6 +23,7 @@ The following is some math and probabilities that are assumed to be known offhan
 If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
 # First settlement
+## Production Score
 For each available vertex (those not too close to other settlements), add the probability of each of the hexes' numbers being rolled.
 > Example 1
 > x + 4x + 5x = 10x
@@ -34,7 +35,8 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1ND
-M2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5
-NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbMjEyODAyMjc5NCw3MjcwMzc2NjUsLTk5Nj
+MwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0NTcy
+MTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5MzM1XX
+0=
 -->
