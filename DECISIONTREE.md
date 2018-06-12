@@ -7,11 +7,11 @@ The following are constants which are used throughout the document and their val
 
 The following is some math and probabilities that are assumed to be known offhand:
 >Probability of two dice rolling:
->
+
 >2 ⟹ 1/36 = x
->
+
 >3 ⟹ 2/36 = 2x
->
+
 >4 ⟹ 3/36 = 3x
 >
 >5 ⟹ 4/36 = 4x
@@ -47,8 +47,8 @@ Calculate by, for each available vertex (those not too close to other settlement
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjQ5MTAwMCwyMDQ5MDI4MDg2LDE2Nz
-YyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2
-MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LD
-E0ODI0NDU2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbLTIxMTA1MjI1OTAsMjA0OTAyODA4NiwxNj
+c2MjMyMzk2LDcyNzAzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjky
+NjEzLDE1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNi
+wxNDgyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
 -->
