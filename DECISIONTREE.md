@@ -34,21 +34,25 @@ The following is some math and probabilities that are assumed to be known offhan
 If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
 # First settlement
-## Production Score
+## Production score
 Calculate by, for each available vertex (those not too close to other settlements), adding the probability of hexes' probability of being rolled.
 > Example 1
 > 
 > x + 4x + 5x = 10x
 ![Example-1](https://drive.google.com/uc?id=1bgcE2kW4AV2s3iiL-F6_-YUNlRUQHK8E)
 
-##
+## Scarcity score
+Calculate by adding the probability of each resource's hexes.
+> Example 2
+>  
+> 
 # Double settlement
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTAzMDU1MCwyMDQ5MDI4MDg2LDE2Nz
+eyJoaXN0b3J5IjpbLTI4MzkyOTUzOSwyMDQ5MDI4MDg2LDE2Nz
 YyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2
 MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LD
 E0ODI0NDU2NywtMTM3MzIyOTMzNV19
