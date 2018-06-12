@@ -5,11 +5,10 @@ An AI based on a fixed decision tree which implements scalars determined by gene
 # Installing
 Currently, there is nothing to install as the decision tree is still being hashed out; see below.
 
-# Built With
-
+# Authors
+• Peter Mao - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ2MTY1MzEsLTE5MTIzMDk0MzhdfQ
-==
+eyJoaXN0b3J5IjpbMTY5MzQ3MTcwOSwtMTkxMjMwOTQzOF19
 -->
