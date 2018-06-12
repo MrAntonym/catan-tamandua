@@ -50,7 +50,7 @@ Calculate by adding the probability of each resource's hexes.
 > Wheat has hexes with 3, 6, 8, and 8
 > 
 > 2x + 5x + 5x + 5x = 17x
-![Example-2]()
+![Example-2](https://drive.google.com/uc?id=1oqOurhQaDejQ9L-PJJCtilefZsEHDLhn)
 
 # Double settlement
 
@@ -58,8 +58,8 @@ Calculate by adding the probability of each resource's hexes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcwOTY0MTksMjA0OTAyODA4NiwxNj
-c2MjMyMzk2LDcyNzAzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjky
-NjEzLDE1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNi
-wxNDgyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
+eyJoaXN0b3J5IjpbLTk4MDg4ODc2NiwtMTEzNzA5NjQxOSwyMD
+Q5MDI4MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQx
+NjksLTE1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOS
+wxMTkzNzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
 -->
