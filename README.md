@@ -1,10 +1,9 @@
 
 # catan-tamandua
 
-An AI 
+An AI based on a fixed decision tree which implements scalars 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM3MzQ2OTUsLTE5MTIzMDk0MzhdfQ
-==
+eyJoaXN0b3J5IjpbMjA5NTc1OTk4NCwtMTkxMjMwOTQzOF19
 -->
