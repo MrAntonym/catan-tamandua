@@ -31,7 +31,7 @@ The following is some math and probabilities that are assumed to be known offhan
 >12 ⟹ 1/36 = x
 
 # Start of the game
-If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
+If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
 # First settlement
 ## Production score
@@ -58,8 +58,9 @@ Calculate by adding the probability of each resource's hexes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDg4ODc2NiwtMTEzNzA5NjQxOSwyMD
-Q5MDI4MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQx
-NjksLTE1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOS
-wxMTkzNzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbMTg3MTcyMjk1MywtOTgwODg4NzY2LC0xMT
+M3MDk2NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Niw3MjcwMzc2
+NjUsLTk5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC
+0xOTk0NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzcz
+MjI5MzM1XX0=
 -->
