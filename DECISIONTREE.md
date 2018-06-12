@@ -1,6 +1,9 @@
 # DECISIONTREE
 The English text version of the decision tree for the bot.
 
+# Reused Constants
+>x = 1/36
+
 # Start of the game
 If the bot is the picking settlement placement last then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
@@ -15,7 +18,7 @@ For each available vertex (those not too close to other settlements), add the pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMT
-k5NDU3MjEzOSwxMTkzNzk5NjM2LDE0ODI0NDU2NywtMTM3MzIy
-OTMzNV19
+eyJoaXN0b3J5IjpbODc4MjIzMzQ5LC0xNTQzNjkyNjEzLDE1Mz
+M4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxNDgyNDQ1
+NjcsLTEzNzMyMjkzMzVdfQ==
 -->
