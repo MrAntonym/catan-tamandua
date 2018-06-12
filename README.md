@@ -14,9 +14,7 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 # Acknowledgements
 • README template from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 
-#
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzM3Mjg1OSwtMTkxMjMwOTQzOF19
+eyJoaXN0b3J5IjpbNDAzNDM5NzU4LC0xOTEyMzA5NDM4XX0=
 -->
