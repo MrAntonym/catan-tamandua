@@ -26,6 +26,7 @@ If the bot is the picking settlement placement last then go to [Double settlemen
 ## Production Score
 Calculate by, for each available vertex (those not too close to other settlements), adding the probability of hexes' probability of being rolled.
 > Example 1
+> 
 > x + 4x + 5x = 10x
 ![Example-1](https://drive.google.com/uc?id=1bgcE2kW4AV2s3iiL-F6_-YUNlRUQHK8E)
 
@@ -35,8 +36,8 @@ Calculate by, for each available vertex (those not too close to other settlement
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTAyODA4NiwxNjc2MjMyMzk2LDcyNz
-AzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjkyNjEzLDE1MzM4NjA1
-MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxNDgyNDQ1NjcsLT
-EzNzMyMjkzMzVdfQ==
+eyJoaXN0b3J5IjpbMTU0Njk3OTkwNiwyMDQ5MDI4MDg2LDE2Nz
+YyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2
+MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LD
+E0ODI0NDU2NywtMTM3MzIyOTMzNV19
 -->
