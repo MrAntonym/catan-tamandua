@@ -44,15 +44,18 @@ Calculate by, for each available vertex (those not too close to other settlement
 ## Scarcity score
 Calculate by adding the probability of each resource's hexes.
 > Example 2
->  
 > 
+> Wheat has hexes with 3, 6, 8, and 8
+> 
+> 2x + 5x + 5x + 5x = 17x
+
 # Double settlement
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzkyOTUzOSwyMDQ5MDI4MDg2LDE2Nz
+eyJoaXN0b3J5IjpbLTg1OTE3NTU5MCwyMDQ5MDI4MDg2LDE2Nz
 YyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2
 MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LD
 E0ODI0NDU2NywtMTM3MzIyOTMzNV19
