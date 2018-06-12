@@ -38,7 +38,7 @@ If the bot is the picking settlement placement last then go to [Double settlemen
 Calculate by, for each available vertex (those not too close to other settlements), adding the probability of hexes' probability of being rolled.
 > Example 1
 > 
-> The vertex is comprised of a wheat 2, 
+> The vertex is comprised of a wheat 2, brick 5, and rock 8.
 > 
 > x + 4x + 5x = 10x
 ![Example-1](https://drive.google.com/uc?id=1bgcE2kW4AV2s3iiL-F6_-YUNlRUQHK8E)
@@ -50,6 +50,7 @@ Calculate by adding the probability of each resource's hexes.
 > Wheat has hexes with 3, 6, 8, and 8
 > 
 > 2x + 5x + 5x + 5x = 17x
+![Example-2]()
 
 # Double settlement
 
@@ -57,8 +58,8 @@ Calculate by adding the probability of each resource's hexes.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODc2ODkzMiwyMDQ5MDI4MDg2LDE2Nz
-YyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2
-MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LD
-E0ODI0NDU2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbLTExMzcwOTY0MTksMjA0OTAyODA4NiwxNj
+c2MjMyMzk2LDcyNzAzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjky
+NjEzLDE1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNi
+wxNDgyNDQ1NjcsLTEzNzMyMjkzMzVdfQ==
 -->
