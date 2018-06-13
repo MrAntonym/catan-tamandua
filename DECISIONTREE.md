@@ -53,8 +53,12 @@ Calculate by adding the probability of each resource's hexes.
 ## Spread score
 Calculate by finding the mean distance from the mean probability of the hexes of a resource.
 > Example 3
->  
->  
+> 
+> Wheat has hexes with 3, 6, 8, and 8
+> 
+> 17x/4 = 17/4x
+> |17/4x - 2x| = 9/4x
+> |17/4x - 5x| = 3/4x
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -67,9 +71,9 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NTAzMzI5LDE1MTE2NTA3NTYsMTg3MT
-cyMjk1MywtOTgwODg4NzY2LC0xMTM3MDk2NDE5LDIwNDkwMjgw
-ODYsMTY3NjIzMjM5Niw3MjcwMzc2NjUsLTk5NjMwNDE2OSwtMT
-U0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0NTcyMTM5LDExOTM3
-OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5MzM1XX0=
+eyJoaXN0b3J5IjpbMTUyNTAyNDAzOSwxNTExNjUwNzU2LDE4Nz
+E3MjI5NTMsLTk4MDg4ODc2NiwtMTEzNzA5NjQxOSwyMDQ5MDI4
+MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLT
+E1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkz
+Nzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
 -->
