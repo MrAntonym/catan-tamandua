@@ -81,7 +81,7 @@ Calculate for a resource by multiplying the scarcity of that resource by the num
 > 8x * 4 = 32x
 
 ## Machine learning black magic
-Using the inputs of the scarcity score, spread score, actualized supply score, and expected supply score for each resource, the production score for the vertex, and the 
+Using the inputs of the scarcity score, spread score, actualized supply score, and expected supply score for each resource, the production score for the vertex, and the combination of resources represented 
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -94,10 +94,10 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE3NDY4MzksLTEyMzU5MzYwNTQsMT
-A3NTQzMDA0NiwxNTExNjUwNzU2LDE4NzE3MjI5NTMsLTk4MDg4
-ODc2NiwtMTEzNzA5NjQxOSwyMDQ5MDI4MDg2LDE2NzYyMzIzOT
-YsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1NDM2OTI2MTMsMTUz
-Mzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNzk5NjM2LDE0ODI0ND
-U2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbLTE4NDU1OTQ2NzksLTE1MTE3NDY4MzksLT
+EyMzU5MzYwNTQsMTA3NTQzMDA0NiwxNTExNjUwNzU2LDE4NzE3
+MjI5NTMsLTk4MDg4ODc2NiwtMTEzNzA5NjQxOSwyMDQ5MDI4MD
+g2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLTE1
+NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkzNz
+k5NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
 -->
