@@ -51,6 +51,7 @@ Calculate by adding the probability of each resource's hexes.
 ![Example-2](https://drive.google.com/uc?id=1oqOurhQaDejQ9L-PJJCtilefZsEHDLhn)
 
 
+
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
@@ -62,9 +63,9 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTY1MDc1NiwxODcxNzIyOTUzLC05OD
-A4ODg3NjYsLTExMzcwOTY0MTksMjA0OTAyODA4NiwxNjc2MjMy
-Mzk2LDcyNzAzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjkyNjEzLD
-E1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxNDgy
-NDQ1NjcsLTEzNzMyMjkzMzVdfQ==
+eyJoaXN0b3J5IjpbNzYyMzg0MzA2LDE1MTE2NTA3NTYsMTg3MT
+cyMjk1MywtOTgwODg4NzY2LC0xMTM3MDk2NDE5LDIwNDkwMjgw
+ODYsMTY3NjIzMjM5Niw3MjcwMzc2NjUsLTk5NjMwNDE2OSwtMT
+U0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0NTcyMTM5LDExOTM3
+OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5MzM1XX0=
 -->
