@@ -64,7 +64,10 @@ Calculate for a resource type by finding the mean distance from the mean probabi
 > (9/4 + 3/4 + 3/4 + 3/4) * x / 4 = 9/8x
 
 ## Actualized supply score
-Calculate for a resource by adding the probability of each instance of that resource being worked by a player
+Calculate for a resource by adding the probability of each instance of that resource being worked by a player.
+> Example 4
+>
+> Two settlements have been placed on rock hexes 
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -77,10 +80,10 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMzM2NzA5LDEwNzU0MzAwNDYsMTUxMT
-Y1MDc1NiwxODcxNzIyOTUzLC05ODA4ODg3NjYsLTExMzcwOTY0
-MTksMjA0OTAyODA4NiwxNjc2MjMyMzk2LDcyNzAzNzY2NSwtOT
-k2MzA0MTY5LC0xNTQzNjkyNjEzLDE1MzM4NjA1MDEsLTE5OTQ1
-NzIxMzksMTE5Mzc5OTYzNiwxNDgyNDQ1NjcsLTEzNzMyMjkzMz
-VdfQ==
+eyJoaXN0b3J5IjpbLTE1MzExODg1NDksMTA3NTQzMDA0NiwxNT
+ExNjUwNzU2LDE4NzE3MjI5NTMsLTk4MDg4ODc2NiwtMTEzNzA5
+NjQxOSwyMDQ5MDI4MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC
+05OTYzMDQxNjksLTE1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5
+NDU3MjEzOSwxMTkzNzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOT
+MzNV19
 -->
