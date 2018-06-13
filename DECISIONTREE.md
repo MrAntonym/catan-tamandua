@@ -33,7 +33,7 @@ The following is some math and probabilities that are assumed to be known offhan
 # Start of the game
 
 ## Production score
-Calculate by, for each available vertex (those not too close to other settlements), adding the probability of hexes' probability of being rolled.
+Calculate for a vertex by adding the probability of hexes' probability of being rolled.
 > Example 1
 > 
 > The vertex is comprised of a wheat 2, brick 5, and rock 8.
@@ -42,7 +42,7 @@ Calculate by, for each available vertex (those not too close to other settlement
 ![Example-1](https://drive.google.com/uc?id=1bgcE2kW4AV2s3iiL-F6_-YUNlRUQHK8E)
 
 ## Scarcity score
-Calculate for a resource by adding the probability of each of the resource's hexes.
+Calculate for a resource type by adding the probability of each of the resource type's hexes.
 > Example 2
 > 
 > Wheat has hexes with 3, 6, 8, and 8
@@ -51,7 +51,7 @@ Calculate for a resource by adding the probability of each of the resource's hex
 ![Example-2](https://drive.google.com/uc?id=1oqOurhQaDejQ9L-PJJCtilefZsEHDLhn)
 
 ## Spread score
-Calculate for a resource by finding the mean distance from the mean probability of the hexes of that resource.
+Calculate for a resource type by finding the mean distance from the mean probability of the hexes of that resource type.
 > Example 3
 > 
 > Wheat has hexes with 3, 6, 8, and 8 (same as the previous example)
@@ -64,7 +64,7 @@ Calculate for a resource by finding the mean distance from the mean probability 
 > (9/4 + 3/4 + 3/4 + 3/4) * x / 4 = 9/8x
 
 ## Supply score
-Calculate for a resource
+Calculate for a resource by adding each instance of the re
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -77,10 +77,10 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTc0NTEyMSwxMDc1NDMwMDQ2LDE1MT
-E2NTA3NTYsMTg3MTcyMjk1MywtOTgwODg4NzY2LC0xMTM3MDk2
-NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Niw3MjcwMzc2NjUsLT
-k5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0
-NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5Mz
-M1XX0=
+eyJoaXN0b3J5IjpbNjc4Njg5MjMxLDEwNzU0MzAwNDYsMTUxMT
+Y1MDc1NiwxODcxNzIyOTUzLC05ODA4ODg3NjYsLTExMzcwOTY0
+MTksMjA0OTAyODA4NiwxNjc2MjMyMzk2LDcyNzAzNzY2NSwtOT
+k2MzA0MTY5LC0xNTQzNjkyNjEzLDE1MzM4NjA1MDEsLTE5OTQ1
+NzIxMzksMTE5Mzc5OTYzNiwxNDgyNDQ1NjcsLTEzNzMyMjkzMz
+VdfQ==
 -->
