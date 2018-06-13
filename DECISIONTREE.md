@@ -42,7 +42,7 @@ Calculate by, for each available vertex (those not too close to other settlement
 ![Example-1](https://drive.google.com/uc?id=1bgcE2kW4AV2s3iiL-F6_-YUNlRUQHK8E)
 
 ## Scarcity score
-Calculate by adding the probability of each resource's hexes.
+Calculate for a resource by adding the probability of each of the resource's hexes.
 > Example 2
 > 
 > Wheat has hexes with 3, 6, 8, and 8
@@ -51,7 +51,7 @@ Calculate by adding the probability of each resource's hexes.
 ![Example-2](https://drive.google.com/uc?id=1oqOurhQaDejQ9L-PJJCtilefZsEHDLhn)
 
 ## Spread score
-Calculate by finding the mean distance from the mean probability of the hexes of a resource.
+Calculate for a resource by finding the mean distance from the mean probability of the hexes of that resource.
 > Example 3
 > 
 > Wheat has hexes with 3, 6, 8, and 8 (same as the previous example)
@@ -62,6 +62,9 @@ Calculate by finding the mean distance from the mean probability of the hexes of
 > |17/4x - 5x| = 3/4x
 > |17/4x - 5x| = 3/4x
 > (9/4 + 3/4 + 3/4 + 3/4) * x / 4 = 9/8x
+
+## Supply score
+Calculate for a resource
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -74,9 +77,10 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTQzMDA0NiwxNTExNjUwNzU2LDE4Nz
-E3MjI5NTMsLTk4MDg4ODc2NiwtMTEzNzA5NjQxOSwyMDQ5MDI4
-MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC05OTYzMDQxNjksLT
-E1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5NDU3MjEzOSwxMTkz
-Nzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOTMzNV19
+eyJoaXN0b3J5IjpbMTcwNTc0NTEyMSwxMDc1NDMwMDQ2LDE1MT
+E2NTA3NTYsMTg3MTcyMjk1MywtOTgwODg4NzY2LC0xMTM3MDk2
+NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Niw3MjcwMzc2NjUsLT
+k5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0
+NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5Mz
+M1XX0=
 -->
