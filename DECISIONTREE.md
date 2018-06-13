@@ -31,9 +31,7 @@ The following is some math and probabilities that are assumed to be known offhan
 >12 ⟹ 1/36 = x
 
 # Start of the game
-If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
 
-# First settlement
 ## Production score
 Calculate by, for each available vertex (those not too close to other settlements), adding the probability of hexes' probability of being rolled.
 > Example 1
@@ -52,15 +50,21 @@ Calculate by adding the probability of each resource's hexes.
 > 2x + 5x + 5x + 5x = 17x
 ![Example-2](https://drive.google.com/uc?id=1oqOurhQaDejQ9L-PJJCtilefZsEHDLhn)
 
+
+## Next step
+If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
+
+# First settlement
+
 # Double settlement
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTcyMjk1MywtOTgwODg4NzY2LC0xMT
-M3MDk2NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Niw3MjcwMzc2
-NjUsLTk5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC
-0xOTk0NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzcz
-MjI5MzM1XX0=
+eyJoaXN0b3J5IjpbMTUxMTY1MDc1NiwxODcxNzIyOTUzLC05OD
+A4ODg3NjYsLTExMzcwOTY0MTksMjA0OTAyODA4NiwxNjc2MjMy
+Mzk2LDcyNzAzNzY2NSwtOTk2MzA0MTY5LC0xNTQzNjkyNjEzLD
+E1MzM4NjA1MDEsLTE5OTQ1NzIxMzksMTE5Mzc5OTYzNiwxNDgy
+NDQ1NjcsLTEzNzMyMjkzMzVdfQ==
 -->
