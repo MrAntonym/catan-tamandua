@@ -74,7 +74,11 @@ Calculate for a resource by adding the probability of each instance of that reso
 ## Expected supply score
 Calculate for a resource by multiplying the scarcity of that resource by the number of settlements that still need to be placed.
 > Example 5
-> 
+>
+> Rock has hexes with 4, 5, and 12 and 4 settlements still need to be placed.
+>
+> 3x + 4x + x = 8x
+> 8x * 4 = 32x
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -87,10 +91,10 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODQ1MTE4NSwxMDc1NDMwMDQ2LDE1MT
-E2NTA3NTYsMTg3MTcyMjk1MywtOTgwODg4NzY2LC0xMTM3MDk2
-NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Niw3MjcwMzc2NjUsLT
-k5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMzODYwNTAxLC0xOTk0
-NTcyMTM5LDExOTM3OTk2MzYsMTQ4MjQ0NTY3LC0xMzczMjI5Mz
-M1XX0=
+eyJoaXN0b3J5IjpbLTEyMzU5MzYwNTQsMTA3NTQzMDA0NiwxNT
+ExNjUwNzU2LDE4NzE3MjI5NTMsLTk4MDg4ODc2NiwtMTEzNzA5
+NjQxOSwyMDQ5MDI4MDg2LDE2NzYyMzIzOTYsNzI3MDM3NjY1LC
+05OTYzMDQxNjksLTE1NDM2OTI2MTMsMTUzMzg2MDUwMSwtMTk5
+NDU3MjEzOSwxMTkzNzk5NjM2LDE0ODI0NDU2NywtMTM3MzIyOT
+MzNV19
 -->
