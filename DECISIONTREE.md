@@ -63,8 +63,8 @@ Calculate for a resource type by finding the mean distance from the mean probabi
 > |17/4x - 5x| = 3/4x
 > (9/4 + 3/4 + 3/4 + 3/4) * x / 4 = 9/8x
 
-## Supply score
-Calculate for a resource by adding each instance of the re
+## Actualized supply score
+Calculate for a resource by adding the probability of each instance of that resource being worked by a player
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -77,7 +77,7 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4Njg5MjMxLDEwNzU0MzAwNDYsMTUxMT
+eyJoaXN0b3J5IjpbOTAxMzM2NzA5LDEwNzU0MzAwNDYsMTUxMT
 Y1MDc1NiwxODcxNzIyOTUzLC05ODA4ODg3NjYsLTExMzcwOTY0
 MTksMjA0OTAyODA4NiwxNjc2MjMyMzk2LDcyNzAzNzY2NSwtOT
 k2MzA0MTY5LC0xNTQzNjkyNjEzLDE1MzM4NjA1MDEsLTE5OTQ1
