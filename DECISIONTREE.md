@@ -80,7 +80,7 @@ Calculate for a resource by multiplying the scarcity of that resource by the num
 > 3x + 4x + x = 8x
 > 8x * 4 = 32x
 
-
+## 
 
 ## Next step
 If the bot is the last player picking where to place its first settlement then go to [Double settlement](#double-settlement). Otherwise, go to [First settlement](#first-settlement).
@@ -93,7 +93,7 @@ If the bot is the last player picking where to place its first settlement then g
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzA0ODQ4NiwtMTIzNTkzNjA1NCwxMD
+eyJoaXN0b3J5IjpbMTU2Nzg4MDc5MiwtMTIzNTkzNjA1NCwxMD
 c1NDMwMDQ2LDE1MTE2NTA3NTYsMTg3MTcyMjk1MywtOTgwODg4
 NzY2LC0xMTM3MDk2NDE5LDIwNDkwMjgwODYsMTY3NjIzMjM5Ni
 w3MjcwMzc2NjUsLTk5NjMwNDE2OSwtMTU0MzY5MjYxMywxNTMz
